@@ -1,9 +1,8 @@
 # The Site Configuration
 
 # Import the theme
-remote_theme: cotes2020/jekyll-theme-chirpy
-plugins:
-  - jekyll-remote-theme
+
+theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -18,9 +17,9 @@ timezone:
 
 title: Compostelle
 
-tagline: Carnet de route - Via Podiensis ( Puy en Velay)
+tagline: Carnet de route - Via Podiensis ( Voie du Puy)
 
-description: Préparation et journal de route sur le chemin de Saint-Jacques-de-Compostelle avec Léonie.
+description: Préparation et journal de route pour le chemin de Saint-Jacques-de-Compostelle avec Léonie.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
